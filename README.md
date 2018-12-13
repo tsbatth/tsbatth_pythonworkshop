@@ -10,10 +10,12 @@ Together, we identified many things we wanted to come away with in the course:
 
 ![](images/course_goals.jpg)
 
-
-
+ipywidgets
+https://ipywidgets.readthedocs.io/en/stable/
 
 ## Additional Learning Resources
+
+Data Science Handbook (Jupyter Notebooks): https://github.com/jakevdp/PythonDataScienceHandbook
 
 
 ### The Terminal
